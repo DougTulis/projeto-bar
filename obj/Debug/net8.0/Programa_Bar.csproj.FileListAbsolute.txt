@@ -1,0 +1,15 @@
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\obj\Debug\net8.0\Programa_Bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\obj\Debug\net8.0\Programa_Bar.AssemblyInfoInputs.cache
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\obj\Debug\net8.0\Programa_Bar.AssemblyInfo.cs
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\obj\Debug\net8.0\Programa_Bar.csproj.CoreCompileInputs.cache
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\obj\Debug\net8.0\Programa_Bar.sourcelink.json
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\bin\Debug\net8.0\Programa_Bar.exe
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\bin\Debug\net8.0\Programa_Bar.deps.json
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\bin\Debug\net8.0\Programa_Bar.runtimeconfig.json
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\bin\Debug\net8.0\Programa_Bar.dll
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\bin\Debug\net8.0\Programa_Bar.pdb
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\obj\Debug\net8.0\Programa_Bar.dll
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\obj\Debug\net8.0\refint\Programa_Bar.dll
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\obj\Debug\net8.0\Programa_Bar.pdb
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\obj\Debug\net8.0\Programa_Bar.genruntimeconfig.cache
+C:\Users\Família\source\repos\Programa_Bar\Programa_Bar\obj\Debug\net8.0\ref\Programa_Bar.dll
